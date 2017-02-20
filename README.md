@@ -1,29 +1,9 @@
-# README #
+# Luận văn tốt nghiệp - Dissertation #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Trường ĐH Tôn Đức Thắng - Ton Duc Thang University
+Khoa Công nghệ thông tin - Faculty of Information & Technology
 
-### What is this repository for? ###
+### Nội dung đề tài - Content ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Xây dựng ứng dụng mô phỏng trường ĐH Tôn Đức Thắng bằng thực tế ảo trên nền tảng di động
+Building simulation applications Ton Duc Thang University in virtual reality on mobile platform
