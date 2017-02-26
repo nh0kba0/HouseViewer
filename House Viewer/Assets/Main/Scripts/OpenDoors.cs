@@ -11,13 +11,11 @@ public class OpenDoors : MonoBehaviour
     private float smooth = 1f;
     private float distance = 3f;
 
-    // Use this for initialization
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
     }
 
-    // Update is called once per frame
     void Update()
     {
         float distance = Vector3.Distance(transform.position, player.transform.position);
