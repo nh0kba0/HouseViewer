@@ -522,13 +522,13 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     Analytics: 0
-    Build: 1
+    Build: 0
     Collab: 1
     ErrorHub: 0
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 1
+    UNet: 0
     Unity_Ads: 0
   cloudProjectId: 0d3f513a-fc9d-4842-9b2b-11059c67fbfb
   projectName: House Viewer
